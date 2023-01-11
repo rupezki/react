@@ -1,0 +1,45 @@
+{
+  "henkilot": [
+    {
+      "id": 2,
+      "nimi": "Teppo",
+      "osoite": "Testikuja 2",
+      "postinumero": "70300",
+      "postitoimipaikka": "Kuopio",
+      "puhelinnumero": 123456789     },
+    {
+      "id": 3,
+      "nimi": "Saku",
+      "osoite": "Koivukatu 10",
+      "postinumero": "15843",
+      "postitoimipaikka": "Keuruu",
+      "puhelinnumero": 12345677
+    },
+    {
+      "id": 4,
+      "nimi": "Jaana",
+      "osoite": "Kuninkaankatu 54",
+      "postinumero": "98765",
+      "postitoimipaikka": "jyväskylä",
+      "puhelinnumero": 4466832742
+    },
+    {
+      "id": 5,
+      "nimi": "Saara",
+      "osoite": "firmakuja 15",
+      "postinumero": "12386",
+      "postitoimipaikka": "Savonlinna",
+      "puhelinnumero": 40632563415
+    }
+  ],
+  "tyypit": [
+    {
+      "id": 1,
+      "nimike": "yritys"
+    },
+    {
+      "id": 2,
+      "nimike": "yksityinen henkilö"
+    }
+  ]
+}
